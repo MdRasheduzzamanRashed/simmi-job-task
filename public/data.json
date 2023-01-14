@@ -1,0 +1,38 @@
+[
+    {
+        "id":"1",
+        "title":"Laptop",
+        "desc":"A laptop computer, sometimes called a notebook computer by manufacturers, is a battery- or AC-powered personal computer generally smaller than a briefcase that can easily be transported and conveniently used in temporary spaces such as on airplanes, in libraries, temporary offices, and at meetings.",
+        "img":"https://i.ibb.co/GcNSnjz/RE4LqQX.webp"
+    },
+    {
+        "id":"2",
+        "title":"Smart Phone",
+        "desc":"A smartphone is a cellular telephone with an integrated computer and other features not originally associated with telephones such as an operating system, web browsing, and the ability to run software applications.",
+        "img":"https://i.ibb.co/FWtGG9G/download-2.jpg"
+    },
+    {
+        "id":"3",
+        "title":"Smart Watch",
+        "desc":"A smartwatch is a wearable computer in the form of a watch; modern smartwatches provide a local touchscreen interface for daily use, while an associated smartphone app provides management and telemetry, such as long-term biomonitoring.",
+        "img":"https://i.ibb.co/pPypJmH/610-Oii-Tm9-PL-SY450.jpg"
+    },
+    {
+        "id":"4",
+        "title":"Earphone",
+        "desc":"Headphones are a pair of small loudspeaker drivers worn on or around the head over a user's ears. They are electroacoustic transducers, which convert an electrical signal to a corresponding sound.",
+        "img":"https://i.ibb.co/C26BDwf/download-1.jpg"
+    },
+    {
+        "id":"5",
+        "title":"Speaker",
+        "desc":"A speaker is someone who delivers a speech or a device that makes sounds louder. The speaker gave a great speech but you couldn't hear it because the speaker was turned off.",
+        "img":"https://i.ibb.co/MCttNV2/JBL-FLIP-5-Portable-Waterproof-Speaker.jpg"
+    },
+    {
+        "id":"6",
+        "title":"Camera",
+        "desc":"A camera is an optical instrument that captures images. Most cameras can capture 2D images, while some more advanced models can capture 3D images. At a basic level, most cameras consist of a sealed box, with a small hole that allows light to pass through and capture an image on a light-sensitive surface.",
+        "img":"https://i.ibb.co/FsqYXs0/613-WC3-Oo-LFL-AC-SL1000.jpg"
+    }
+]
